@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix docker.yaml double-quote version bug (#7452)
