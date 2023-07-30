@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update neural-magic.md (#7347)
