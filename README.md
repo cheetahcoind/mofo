@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
